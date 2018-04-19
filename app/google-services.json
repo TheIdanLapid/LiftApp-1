@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521436481256",
+    "firebase_url": "https://applift-32f23.firebaseio.com",
+    "project_id": "applift-32f23",
+    "storage_bucket": "applift-32f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521436481256:android:c8c75e8ddd284982",
+        "android_client_info": {
+          "package_name": "com.example.admin.liftapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521436481256-19to71426kv5qhadar29kk39dh7r8ndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzCjY7QdNvuoIqzb7-eExyyYhtqXM2R0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
